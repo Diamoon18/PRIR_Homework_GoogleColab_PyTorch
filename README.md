@@ -11,9 +11,11 @@ This is a kind of filter-transformation into an anime character. \
 In this implementation, there was already a ready-made code, which I tested and received the following results.\
 ```Anime_Facegan.ipynb``` - the file with the code ready for testing.
 #### My results:
+![image](https://user-images.githubusercontent.com/72127610/147855133-e17c24ae-1402-465a-a013-168db35211d9.png)
 #### Some results in the main source:
 ![z](https://user-images.githubusercontent.com/72127610/147854771-313e6229-27e2-4159-9e7f-a78d085cb926.jpg)
-### Task 2) 
+### Task 2) Music
+
 ## Sources:
 1) https://github.com/bryandlee/animegan2-pytorch#torch-hub-usage
 3) 
