@@ -26,5 +26,5 @@ In this implementation, there was already a ready-made code, which I tested and 
 ### Task 2) Music
 
 ## Sources:
-1) https://github.com/bryandlee/animegan2-pytorch#torch-hub-usage
+1) https://github.com/bryandlee/animegan2-pytorch#pytorch-implementation-of-animeganv2
 3) 
