@@ -29,6 +29,8 @@ So much so that I can't part with the headphones for a long time.\
 Therefore, in the second case, I was looking for something interesting related to music.\
 ```Open-Unmix``` is a deep neural network reference implementation for music source separation.\
 Allow users to separate pop music into four stems: vocals, drums, bass and the remaining other instruments.\
+The file ```.ipynb``` is big so I decided to make a link available: (github allows to attach files up to 25 MB in size)
+https://colab.research.google.com/drive/17Y5sZgmobmoH2mWTkAD8k5CMOYg65ZQt?usp=sharing
 ## Sources:
 1) https://github.com/bryandlee/animegan2-pytorch#pytorch-implementation-of-animeganv2
 3) 
