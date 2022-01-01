@@ -34,4 +34,4 @@ The file ```.ipynb``` is big so I decided to make a link available: (github allo
 https://colab.research.google.com/drive/17Y5sZgmobmoH2mWTkAD8k5CMOYg65ZQt?usp=sharing
 ## Sources:
 1) https://github.com/bryandlee/animegan2-pytorch#pytorch-implementation-of-animeganv2
-3) 
+3) https://github.com/sigsep/open-unmix-pytorch#open-unmix-for-pytorch
