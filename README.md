@@ -23,10 +23,12 @@ In this implementation, there was already a ready-made code, which I tested and 
 
 #### Some results in the main source:
 ![z](https://user-images.githubusercontent.com/72127610/147854771-313e6229-27e2-4159-9e7f-a78d085cb926.jpg)
-### Task 2) Music
+### Task 2) Open-Unmix PyTorch
 As much as anime, I also love music.\
 So much so that I can't part with the headphones for a long time.\
-Therefore, in the second case, I was looking for something interesting related to music.
+Therefore, in the second case, I was looking for something interesting related to music.\
+```Open-Unmix``` is a deep neural network reference implementation for music source separation.\
+Allow users to separate pop music into four stems: vocals, drums, bass and the remaining other instruments.\
 ## Sources:
 1) https://github.com/bryandlee/animegan2-pytorch#pytorch-implementation-of-animeganv2
 3) 
