@@ -29,7 +29,7 @@ So much so that I can't part with the headphones for a long time.\
 Therefore, in the second case, I was looking for something interesting related to music.\
 ```Open-Unmix``` is a deep neural network reference implementation for music source separation.\
 Allow users to separate pop music into four stems: vocals, drums, bass and the remaining other instruments.\
-Using this code, you can not only separate ordinary music, but also music from video. \
+Using this code, you can not only separate ordinary music, but also music from video.
 #### Code
 The results can be seen in this link.
 The file ```.ipynb``` is big so I decided to make a link available: (github allows to attach files up to 25 MB in size)
