@@ -29,9 +29,15 @@ So much so that I can't part with the headphones for a long time.\
 Therefore, in the second case, I was looking for something interesting related to music.\
 ```Open-Unmix``` is a deep neural network reference implementation for music source separation.\
 Allow users to separate pop music into four stems: vocals, drums, bass and the remaining other instruments.\
+Using this code, you can not only separate ordinary music, but also music from video. \
 #### Code
+The results can be seen in this link.
 The file ```.ipynb``` is big so I decided to make a link available: (github allows to attach files up to 25 MB in size)
 https://colab.research.google.com/drive/17Y5sZgmobmoH2mWTkAD8k5CMOYg65ZQt?usp=sharing
+## Conclusion
+Of course, the PyTorch library has many uses, but I wanted to show you the most interesting from my point of view.\
+```Anime Fiter - AnimeGANv2``` can be very interesting for all ages, which can be a nice addition to an application related to photo modification.\
+```Separator Open-Unmix``` will be useful for creating music and for people who are beginners in their adventure with music.
 ## Sources:
 1) https://github.com/bryandlee/animegan2-pytorch#pytorch-implementation-of-animeganv2
-3) https://github.com/sigsep/open-unmix-pytorch#open-unmix-for-pytorch
+2) https://github.com/sigsep/open-unmix-pytorch#open-unmix-for-pytorch
